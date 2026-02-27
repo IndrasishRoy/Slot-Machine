@@ -21,6 +21,21 @@ The reel system uses smooth deceleration and easing alignment to simulate a mech
 
 ---
 
+## 📦 WebGL Build Location
+
+The WebGL build is located at:
+
+Build/WebGL/Slot Machine.zip
+
+To use or run the build:
+
+1. Navigate to the location above.
+2. Extract (unzip) the `Slot Machine.zip` file.
+3. Open the extracted folder.
+4. Follow the instructions below to run the WebGL build using a local server.
+
+---
+
 ## 🌐 Instructions to Run WebGL Build
 
 ⚠️ Important: WebGL builds must be run from a local or hosted server.  
